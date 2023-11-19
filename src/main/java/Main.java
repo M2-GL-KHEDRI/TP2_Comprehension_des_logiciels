@@ -59,7 +59,7 @@ public class Main {
             System.out.println(couplingGraph.toString());
         }
     }
-    
+
     private static java.util.List<Cluster> selection_cluster(Cluster dendgr) {
 
         List<Cluster> R = new ArrayList<>();
